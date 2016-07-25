@@ -1,6 +1,6 @@
 # YouToken
 
-This was my first "play" contact written in solidity and deployed to the blockchain in December, 2015.
+This was my first "play" contact written in solidity and first test deployed to the blockchain in December 2015.
 
 The basic idea is a contract that lets any ethereum address create its own token that its owner can issue
 at will, and that its holders can redeem at will. The contract makes no suppositions about what issuance
